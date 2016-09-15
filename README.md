@@ -1,2 +1,1 @@
-# Software Assurance Team
-## Make SA Great Again
+# Software Assurance: Make SA Great Again
